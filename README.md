@@ -497,4 +497,16 @@ Query
 
 تمرکز دارد و به استفاده واقعی کاربران از سیستم‌های RAG نزدیک‌تر است.
 
+
+
+# References
+
+Hou, Yutao, et al.
+   **Compound-QA: A Benchmark for Evaluating LLMs on Compound Questions**
+   2024.
+   https://arxiv.org/abs/2411.10163
+
+ongoing...
+
+
 </div>
